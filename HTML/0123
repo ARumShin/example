@@ -1,0 +1,3 @@
+CSS specificity(특이성) 선택자우선순위
+inline>internal>=external
+id,class, element순으로 우선순위를 가진다. 
